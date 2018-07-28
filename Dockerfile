@@ -1,7 +1,7 @@
 
 # Instructions: https://github.com/chrvadala/potree-converter-docker.git
 
-FROM ubuntu:15.04
+FROM ubuntu:xenial
 MAINTAINER cvdlab
 VOLUME ["/input", "/output"]
 
