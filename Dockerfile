@@ -1,4 +1,3 @@
-
 # Instructions: https://github.com/chrvadala/potree-converter-docker.git
 
 FROM ubuntu:20.04
@@ -26,4 +25,4 @@ make && cp -r /opt/PotreeConverter/resources /opt/PotreeConverter/build/resource
 
 WORKDIR /opt/PotreeConverter/build
 
-CMD PotreeConverter
+ENTRYPOINT ["./PotreeConverter"]
