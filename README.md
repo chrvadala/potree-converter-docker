@@ -1,6 +1,6 @@
 # Potree Converter docker
 
-Potree Converter utility packed as Docker Container
+Potree Converter utility packed as Docker container
 
 [![chrvadala](https://img.shields.io/badge/website-chrvadala-orange.svg)](https://chrvadala.github.io)
 [![Donate](https://img.shields.io/badge/donate-PayPal-green.svg)](https://www.paypal.me/chrvadala/25)
@@ -18,6 +18,8 @@ Potree Converter utility packed as Docker Container
 
 ## Contributors
 - [chrvadala](https://github.com/chrvadala) (author)
+- [danilosalvati](https://github.com/danilosalvati)
+- [SarcasticGeek](https://github.com/SarcasticGeek)
 - [wjjmjh](https://github.com/wjjmjh)
 
 ## Credits
